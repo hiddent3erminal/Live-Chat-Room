@@ -20,7 +20,7 @@ Features a glassmorphism UI, animated interactions, mobile-first design, and uni
 
 ## 📸 Screenshots
 
-![Chat Room Screenshot](https://user-images.githubusercontent.com/screenshot.png)
+![Chat Room Screenshot](screenshot.png)
 
 
 ---
